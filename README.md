@@ -2,7 +2,7 @@
 
   <br/>
   <br/>
-  <img src="http://yagizcanyavuz.ninja/assets/User/images/git.png">
+  <img src="http://yagizcanyavuz.ninja/assets/User/images/git1.png">
   <br/>
   <br/>
   
