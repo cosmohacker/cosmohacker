@@ -9,7 +9,7 @@
   (Use dark theme to find my social accounts)    ̿̿ ̿̿ ̿̿ ̿'̿'\̵͇̿̿\з= ( ▀ ͜͞ʖ▀) =ε/̵͇̿̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿
   <a href="http://yagizcanyavuz.ninja/" target="_blank"><img align="left" alt="website" width="22px" src="https://github.com/cosmohacker/github-components/blob/main/globe.svg" /></a>
   
-  <a href="https://twitter.com/yagizcan_yavuz" target="_blank"><img align="left" alt="twitter" width="22px" src="https://github.com/cosmohacker/github-components/blob/main/twitter.svg" /></a>
+  <a href="https://twitter.com/cosmohacker" target="_blank"><img align="left" alt="twitter" width="22px" src="https://github.com/cosmohacker/github-components/blob/main/twitter.svg" /></a>
   
   <a href="https://yagizcanyavuz.wordpress.com/" target="_blank"><img align="left" alt="wordpress" width="22px" src="https://github.com/cosmohacker/github-components/blob/main/wordpress.svg" /></a>
    
