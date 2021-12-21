@@ -6,6 +6,15 @@
   <br/>
   <br/>
   
+  ### 🏆 GitHub Profile Trophy:
+---
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Kakise&column=8&theme=radical&no-frame=true&no-bg=true"/>
+</a>
+
+  <br/>
+  <br/>
+  
   (Use dark theme to find my social accounts)    ̿̿ ̿̿ ̿̿ ̿'̿'\̵͇̿̿\з= ( ▀ ͜͞ʖ▀) =ε/̵͇̿̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿
   <a href="http://yagizcanyavuz.ninja/" target="_blank"><img align="left" alt="website" width="22px" src="https://github.com/cosmohacker/github-components/blob/main/globe.svg" /></a>
   
