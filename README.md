@@ -9,7 +9,7 @@
   ### 🏆 GitHub Profile Trophy:
 ---
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Kakise&column=8&theme=radical&no-frame=true&no-bg=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=cosmohacker&column=8&theme=radical&no-frame=true&no-bg=true"/>
 </a>
 
   <br/>
