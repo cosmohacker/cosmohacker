@@ -27,6 +27,8 @@
     
   <a href="https://open.spotify.com/user/217cixzitjjw52l67325r3ypir" target="_blank"><img align="left" alt="spotify" width="22px" src="https://github.com/cosmohacker/github-components/blob/main/spotify.svg" /></a>
   
+  <a href="https://opensea.io/aSocial_Fingers" target="_blank"><img align="left" alt="spotify" width="22px" src="https://github.com/cosmohacker/github-components/blob/main/nft.svg" /></a>
+  
   <br/>
   <br/>
   
