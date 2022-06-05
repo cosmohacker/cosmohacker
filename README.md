@@ -1,4 +1,4 @@
-### Hi I'm <a href="http://yagizcanyavuz.ninja/" target="_blank">cosmohacker</a>! 👋
+### Hi I'm <a href="http://yagizcanyavuz.space/" target="_blank">cosmohacker</a>! 👋
 
   <br/>
   <br/>
@@ -7,7 +7,7 @@
   <br/>
   
   (Use dark theme to find my social accounts)    ̿̿ ̿̿ ̿̿ ̿'̿'\̵͇̿̿\з= ( ▀ ͜͞ʖ▀) =ε/̵͇̿̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿
-  <a href="http://yagizcanyavuz.ninja/" target="_blank"><img align="left" alt="website" width="22px" src="https://github.com/cosmohacker/github-components/blob/main/globe.svg" /></a>
+  <a href="http://yagizcanyavuz.space/" target="_blank"><img align="left" alt="website" width="22px" src="https://github.com/cosmohacker/github-components/blob/main/globe.svg" /></a>
   
   <a href="https://twitter.com/cosmohacker" target="_blank"><img align="left" alt="twitter" width="22px" src="https://github.com/cosmohacker/github-components/blob/main/twitter.svg" /></a>
   
@@ -19,7 +19,7 @@
 
   <a href="https://www.linkedin.com/in/ya%C4%9F%C4%B1zcan-yavuz-813a7a154/" target="_blank"><img align="left" alt="linkedin" width="22px" src="https://github.com/cosmohacker/github-components/blob/main/linkedin.svg" /></a>
   
-  <a href="https://www.instagram.com/_yagizcanyavuz/" target="_blank"><img align="left" alt="instagram" width="22px" src="https://github.com/cosmohacker/github-components/blob/main/instagram.svg" /></a>
+  <a href="https://www.instagram.com/yagizcan.yavuz/" target="_blank"><img align="left" alt="instagram" width="22px" src="https://github.com/cosmohacker/github-components/blob/main/instagram.svg" /></a>
   
   <a href="https://github.com/cosmohacker" target="_blank"><img align="left" alt="github" width="22px" src="https://github.com/cosmohacker/github-components/blob/main/github.svg" /></a>
   
