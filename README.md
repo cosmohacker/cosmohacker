@@ -44,11 +44,10 @@
   
 ### 📊 GitHub Stats:
 ---
-![cosmohacker github stats](https://github-readme-stats.vercel.app/api?username=cosmohacker&show_icons=true&theme=dark)
-
 ![cosmohacker Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cosmohacker&theme=solarized_dark)
 ![cosmohacker Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cosmohacker&theme=solarized_dark)
 ![cosmohacker Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cosmohacker&theme=solarized_dark)
 
+![cosmohacker github stats](https://github-readme-stats.vercel.app/api?username=cosmohacker&show_icons=true&theme=dark)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=217cixzitjjw52l67325r3ypi&cover_image=true&theme=default&bar_color=000000&bar_color_cover=true)]([https://github.com/kittinan/spotify-github-profile]([https://open.spotify.com/user/217cixzitjjw52l67325r3ypi?si=50c4c1c3de8f4c3b](https://spotify-github-profile.vercel.app/api/view?uid=217cixzitjjw52l67325r3ypi&redirect=true)))
