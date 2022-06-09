@@ -51,4 +51,4 @@
 ![cosmohacker Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cosmohacker&theme=solarized_dark)
 
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=217cixzitjjw52l67325r3ypi&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=217cixzitjjw52l67325r3ypi&cover_image=true&theme=default&bar_color=000000&bar_color_cover=true)]]
+![https://spotify-github-profile.vercel.app/api/view.svg?uid=217cixzitjjw52l67325r3ypi&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=217cixzitjjw52l67325r3ypi&cover_image=true&theme=default&bar_color=000000&bar_color_cover=true)]
