@@ -44,9 +44,10 @@
   
 ### 📊 GitHub Stats:
 ---
+
+![cosmohacker Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cosmohacker&theme=solarized_dark)
 ![cosmohacker Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cosmohacker&theme=solarized_dark)
 ![cosmohacker Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cosmohacker&theme=solarized_dark)
-![cosmohacker Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cosmohacker&theme=solarized_dark)
 
 ![cosmohacker github stats](https://github-readme-stats.vercel.app/api?username=cosmohacker&show_icons=true&theme=dark)
 
