@@ -2,7 +2,7 @@
 
   <br/>
   <br/>
-  <img src="https://github.com/cosmohacker/github-components/blob/main/git2.png">
+  <img src="https://github.com/cosmohacker/github-components/blob/main/git3.png">
   <br/>
   <br/>
   
