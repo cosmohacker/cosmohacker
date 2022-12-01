@@ -33,8 +33,6 @@
  <img width=800 src="https://github-profile-trophy.vercel.app/?username=cosmohacker&theme=matrix&no-frame=true"/>
  <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=cosmohacker&count_private=true&include_all_commits=true&theme=matrix" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmohacker&layout=compact&theme=matrix" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmohacker&layout=compact&theme=matrix" />
 </div>
 ---
-
-![cosmohacker github stats](https://github-readme-stats.vercel.app/api?username=cosmohacker&show_icons=true&theme=dark)
