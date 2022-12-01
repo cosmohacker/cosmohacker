@@ -21,9 +21,6 @@
 <a href="https://www.youtube.com/channel/UCJTO_UKw9UDNsjafWBGv08A" target="_blank"><img align="left" alt="youtube" width="22px" src="https://github.com/cosmohacker/github-components/blob/main/youtube.svg" /></a>
     
 <a href="https://yagizcanyavuz.wordpress.com/" target="_blank"><img align="left" alt="wordpress" width="22px" src="https://github.com/cosmohacker/github-components/blob/main/wordpress.svg" /></a>
-    
-    
-  
   
   <br/>
   <br/>
@@ -32,7 +29,6 @@
 ---
  <img width=800 src="https://github-profile-trophy.vercel.app/?username=cosmohacker&theme=matrix&no-frame=true"/>
  <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=cosmohacker&count_private=true&include_all_commits=true&theme=matrix" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmohacker&layout=compact&theme=matrix" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=cosmohacker&count_private=true&include_all_commits=true&theme=dark" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmohacker&layout=compact&theme=dark" />
 </div>
----
