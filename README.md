@@ -30,17 +30,11 @@
   
   ### 🏆 GitHub Profile Trophy:
 ---
- <img width=800 src="https://github-profile-trophy.vercel.app/?username=cosmohacker&column=8&theme=matrix&no-frame=true"/>
-  <br/>
-  <br/>
-  
+ <img width=800 src="https://github-profile-trophy.vercel.app/?username=cosmohacker&theme=matrix&no-frame=true"/>
+ <div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=cosmohacker&count_private=true&include_all_commits=true&theme=matrix" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmohacker&layout=compact&theme=matrix" />
+</div>
 ---
-  
-### 📊 GitHub Stats:
----
-
-![cosmohacker Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cosmohacker&theme=dracula)
-![cosmohacker Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cosmohacker&theme=dracula)
-![cosmohacker Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cosmohacker&theme=dracula)
 
 ![cosmohacker github stats](https://github-readme-stats.vercel.app/api?username=cosmohacker&show_icons=true&theme=dark)
