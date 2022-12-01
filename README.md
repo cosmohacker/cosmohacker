@@ -30,7 +30,7 @@
   
   ### 🏆 GitHub Profile Trophy:
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=cosmohacker&theme=onedark&title=MultipleLanguage)](https://github.com/cosmohacker)
+[![trophy](https://github-profile-trophy.vercel.app/?username=cosmohacker&theme=onedark&title=MultipleLang)](https://github.com/cosmohacker)
   <br/>
   <br/>
   
