@@ -30,7 +30,7 @@
   
   ### 🏆 GitHub Profile Trophy:
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=cosmohacker&row=2&column=3)](https://github.com/cosmohacker)
+[![trophy](https://github-profile-trophy.vercel.app/?username=cosmohacker&theme=onedark)](https://github.com/cosmohacker)
   <br/>
   <br/>
   
