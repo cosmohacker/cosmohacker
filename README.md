@@ -1,4 +1,5 @@
-### Hi I'm <a href="http://yagizcanyavuz.space/" target="_blank">cosmohacker</a>! 👋
+### Hi I'm <a href="http://yagizcanyavuz.space/" target="_blank">cosmohacker</a>! 👋 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=cosmohacker.cosmohacker)
+![https://www.codewars.com/users/cosmohacker/badges/micro](https://www.codewars.com/users/cosmohacker/badges/micro)
 
   <br/>
   <br/>
@@ -32,7 +33,3 @@
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=cosmohacker&count_private=true&include_all_commits=true&theme=dark" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmohacker&layout=compact&theme=dark" />
 </div>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=cosmohacker.cosmohacker)
-![https://www.codewars.com/users/cosmohacker/badges/micro](https://www.codewars.com/users/cosmohacker/badges/micro)
-
