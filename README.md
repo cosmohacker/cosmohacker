@@ -34,5 +34,5 @@
 </div>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=cosmohacker.cosmohacker)
-https://www.codewars.com/users/cosmohacker/badges/micro
+[https://www.codewars.com/users/cosmohacker/badges/micro](https://www.codewars.com/users/cosmohacker/badges/micro)
 
