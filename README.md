@@ -20,8 +20,6 @@
 <a href="https://open.spotify.com/user/217cixzitjjw52l67325r3ypir" target="_blank"><img align="left" alt="spotify" width="22px" src="https://github.com/cosmohacker/github-components/blob/main/spotify.svg" /></a>
   
 <a href="https://www.youtube.com/channel/UCJTO_UKw9UDNsjafWBGv08A" target="_blank"><img align="left" alt="youtube" width="22px" src="https://github.com/cosmohacker/github-components/blob/main/youtube.svg" /></a>
-    
-<a href="https://yagizcanyavuz.wordpress.com/" target="_blank"><img align="left" alt="wordpress" width="22px" src="https://github.com/cosmohacker/github-components/blob/main/wordpress.svg" /></a>
   
   <br/>
   <br/>
