@@ -6,8 +6,8 @@
   <img src="https://github.com/cosmohacker/github-components/blob/main/git3.png">
   <br/>
   <br/>
-  
-  <a href="[https://steamcommunity.com/id/cosmohacker/](http://www.yagizcanyavuz.space/en)" target="_blank"><img align="left" alt="website" width="22px" src="https://github.com/cosmohacker/github-components/blob/main/globe.svg" /></a> (Use dark theme to find my social accounts)    ̿̿ ̿̿ ̿̿ ̿'̿'\̵͇̿̿\з= ( ▀ ͜͞ʖ▀) =ε/̵͇̿̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿
+ 
+![ezgif com-resize](https://user-images.githubusercontent.com/25702402/226864621-3c9a6aee-2b82-4516-8f44-252ca0f1317b.gif)
   
 <a href="https://steamcommunity.com/id/cosmohacker/" target="_blank"><img align="left" alt="steam" width="22px" src="https://github.com/cosmohacker/github-components/blob/main/steam.svg" /></a>
   
