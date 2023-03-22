@@ -7,8 +7,8 @@
   <br/>
   <br/>
  
-![ezgif com-resize](https://user-images.githubusercontent.com/25702402/226864621-3c9a6aee-2b82-4516-8f44-252ca0f1317b.gif)
-  
+  ![ezgif com-resize (1)](https://user-images.githubusercontent.com/25702402/226866104-bb259125-0e4f-45f9-939a-9c864d92e653.gif)
+
 <a href="https://steamcommunity.com/id/cosmohacker/" target="_blank"><img align="left" alt="steam" width="22px" src="https://github.com/cosmohacker/github-components/blob/main/steam.svg" /></a>
   
 <a href="https://github.com/cosmohacker" target="_blank"><img align="left" alt="github" width="22px" src="https://github.com/cosmohacker/github-components/blob/main/github.svg" /></a>
