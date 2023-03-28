@@ -7,7 +7,7 @@
   <br/>
   <br/>
  
-  ![ezgif com-resize (1)](https://user-images.githubusercontent.com/25702402/226866104-bb259125-0e4f-45f9-939a-9c864d92e653.gif)
+![Frame 66](https://user-images.githubusercontent.com/25702402/228217616-1c47d6be-f13a-4d76-9b27-fcc17051b2bc.gif)
 
 <a href="https://steamcommunity.com/id/cosmohacker/" target="_blank"><img align="left" alt="steam" width="22px" src="https://github.com/cosmohacker/github-components/blob/main/steam.svg" /></a>
   
