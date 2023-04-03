@@ -27,5 +27,5 @@
   ### 🏆 GitHub Profile Trophy:
 ---
  <div>
-  <img width=810 src="https://github-profile-trophy.vercel.app/?username=cosmohacker&theme=matrix&no-frame=true"/>
+  <img width=810 src="https://github-profile-trophy.vercel.app/?username=cosmohacker&theme=matrix&no-frame=true&no-bg=true&column=-1"/>
 </div>
