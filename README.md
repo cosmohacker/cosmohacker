@@ -1,11 +1,11 @@
 ### Hi I'm <a href="http://yagizcanyevgenyavuz.space/" target="_blank">cosmohacker</a>! 🗿
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=cosmohacker.cosmohacker)![https://www.codewars.com/users/cosmohacker/badges/micro](https://www.codewars.com/users/cosmohacker/badges/micro)
 
-I can help with any kind of project, it gives me pleasure... You can invite me to your projects.
+### I can help with any kind of project, it gives me pleasure... You can invite me to your projects.
 
-I would do anything for technology, science and art.
+### Since I love software and it is my profession, you can ask anything without hesitation. I respect my profession and therefore I will do my best for you and the software community.
 
-Since I love software and it is my profession, you can ask anything without hesitation. I respect my profession and therefore I will do my best for you and the software community.
+### I would do anything for technology, science and art.
 
   <br/>
   <br/>
