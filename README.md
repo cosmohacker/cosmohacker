@@ -1,7 +1,7 @@
 ### Hi I'm <a href="http://yagizcanyevgenyavuz.space/" target="_blank">cosmohacker</a>! 🗿
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=cosmohacker.cosmohacker)![https://www.codewars.com/users/cosmohacker/badges/micro](https://www.codewars.com/users/cosmohacker/badges/micro)
 
-### I have Asperger's Syndrome so I can be rude without realizing it, sorry in advance
+### I have Asperger's Syndrome so I can be rude without realizing it, sorry in advance. I don't have a social life I'm just working
 
 ### I can help with any kind of project, it gives me pleasure... You can invite me to your projects.
 
