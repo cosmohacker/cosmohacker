@@ -1,5 +1,5 @@
 ### Hi I'm <a href="http://yagizcanyevgenyavuz.space/" target="_blank">cosmohacker</a>! 🗿
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=cosmohacker.cosmohacker)![https://www.codewars.com/users/cosmohacker/badges/micro](https://www.codewars.com/users/cosmohacker/badges/micro)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=cosmohacker.cosmohacker) [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md) ![https://www.codewars.com/users/cosmohacker/badges/micro](https://www.codewars.com/users/cosmohacker/badges/micro)
 
 ### I have Asperger's Syndrome so I can be rude without realizing it, sorry in advance. I don't have a social life I'm just working
 
