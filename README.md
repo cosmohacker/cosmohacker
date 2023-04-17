@@ -1,5 +1,24 @@
-### Hi I'm <a href="http://yagizcanyevgenyavuz.space/" target="_blank">cosmohacker</a>! 🗿
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=cosmohacker.cosmohacker) [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md) ![https://www.codewars.com/users/cosmohacker/badges/micro](https://www.codewars.com/users/cosmohacker/badges/micro)
+
+ 
+                               ,----------------,              ,---------,
+                          ,-----------------------,          ,"        ,"|
+                        ,"                      ,"|        ,"        ,"  |
+                       +-----------------------+  |      ,"        ,"    |
+                       |  .-----------------.  |  |     +---------+      |
+                       |  |                 |  |  |     | -==----'|      |
+                       |  |  Hi! I'm        |  |  |     |         |      |
+                       |  |  cosmohacker    |  |  |/----|`---=    |      |
+                       |  |  C:\>_          |  |  |   ,/|==== ooo |      ;
+                       |  |                 |  |  |  // |(((( [33]|    ,"
+                       |  `-----------------'  |," .;'| |((((     |  ,"
+                       +-----------------------+  ;;  | |         |,"     -github.com/cosmohacker-
+                          /_)______________(_/  //'   | +---------+
+                     ___________________________/___  `,
+                    /  oooooooooooooooo  .o.  oooo /,   \,"-----------
+                   / ==ooooooooooooooo==.o.  ooo= //   ,`\--{)B     ,"
+                  /_==__==========__==_ooo__ooo=_/'   /___________,"
+                  `-----------------------------
 
 ### I have Asperger's Syndrome so I can be rude without realizing it, sorry in advance. I don't have a social life I'm just working
 
@@ -11,10 +30,6 @@
 
 ### Feel free to attack/hack my personal website : https://www.yagizcanyevgenyavuz.space and please let me know about vulnerabilities.
 
- ---
-#### 🛠 Social Media
-[![My Skills](https://skillicons.dev/icons?i=linkedin,twitter,github,discord)](https://skillicons.dev)
- 
 ---
 #### 🛠 Adobe
 [![My Skills](https://skillicons.dev/icons?i=ai,au,pr,xd,ae,ps)](https://skillicons.dev)
@@ -55,31 +70,6 @@
 <a href="https://www.codewars.com/users/cosmohacker"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" /></a>
   <br/>
   <br/>
- 
- <p align='center'>
-  
-                               ,----------------,              ,---------,
-                          ,-----------------------,          ,"        ,"|
-                        ,"                      ,"|        ,"        ,"  |
-                       +-----------------------+  |      ,"        ,"    |
-                       |  .-----------------.  |  |     +---------+      |
-                       |  |                 |  |  |     | -==----'|      |
-                       |  |  Made by        |  |  |     |         |      |
-                       |  |  cosmohacker    |  |  |/----|`---=    |      |
-                       |  |  C:\>_          |  |  |   ,/|==== ooo |      ;
-                       |  |                 |  |  |  // |(((( [33]|    ,"
-                       |  `-----------------'  |," .;'| |((((     |  ,"
-                       +-----------------------+  ;;  | |         |,"     -github.com/cosmohacker-
-                          /_)______________(_/  //'   | +---------+
-                     ___________________________/___  `,
-                    /  oooooooooooooooo  .o.  oooo /,   \,"-----------
-                   / ==ooooooooooooooo==.o.  ooo= //   ,`\--{)B     ,"
-                  /_==__==========__==_ooo__ooo=_/'   /___________,"
-                  `-----------------------------
-  
-   ![Visitor Count](https://profile-counter.glitch.me/cosmohacker/count.svg)
-  
- </p>
   
   ### 🏆 GitHub Profile Trophy:
 ---
