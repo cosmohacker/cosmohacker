@@ -21,7 +21,7 @@
 ---
 
 #### 🛠 Tools & Programs
-[![My Skills](https://skillicons.dev/icons?i=laravel,matlab,postman,androidstudio,docker,kubernetes,figma,vim,git,eclipse,vscode,codepen,electron,firebase,flask,blender,vscode,visualstudio,unreal,unity,atom,regex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,matlab,postman,androidstudio,docker,kubernetes,figma,vim,git,eclipse,vscode,codepen,electron,firebase,flask,blender,vscode,visualstudio,unreal,unity,atom,regex,md)](https://skillicons.dev)
 ---
 
 #### 🛠 Database
@@ -29,7 +29,7 @@
 ---
 
 #### 🛠 Software
-[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,js,react,html,css,kotlin,nodejs,flutter,angular,arduino,bootstrap,cs,dotnet,fortran,idea,jquery,linux,lua,md,powershell,swift,react,raspberrypi,r,php,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,js,react,html,css,kotlin,nodejs,flutter,angular,arduino,bootstrap,cs,dotnet,fortran,idea,jquery,lua,powershell,swift,react,raspberrypi,r,php,nodejs)](https://skillicons.dev)
 ---
 
 #### 🛠 OS
@@ -38,7 +38,8 @@
   <br/>
   <img src="https://github.com/cosmohacker/github-components/blob/main/git3.png">
   <br/>
-![Frame 66](https://user-images.githubusercontent.com/25702402/228217616-1c47d6be-f13a-4d76-9b27-fcc17051b2bc.gif)
+  
+  ![Frame 66](https://user-images.githubusercontent.com/25702402/228217616-1c47d6be-f13a-4d76-9b27-fcc17051b2bc.gif)
 
 <p align='center'>
 <a href="mailto:yagizcanyevgenyavuz@asocialfingers.com"><img src="https://img.shields.io/badge/Outlook-0078D4.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
