@@ -31,25 +31,26 @@
 ### Feel free to attack/hack my personal website : https://www.yagizcanyevgenyavuz.space and please let me know about vulnerabilities.
 
 ---
-#### 🛠 Adobe
-[![My Skills](https://skillicons.dev/icons?i=ai,au,pr,xd,ae,ps)](https://skillicons.dev)
----
-
-#### 🛠 Tools & Programs
-[![My Skills](https://skillicons.dev/icons?i=laravel,matlab,postman,androidstudio,docker,kubernetes,figma,vim,git,eclipse,vscode,codepen,electron,firebase,flask,blender,vscode,visualstudio,unreal,unity,atom,regex,md)](https://skillicons.dev)
----
-
-#### 🛠 Database
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite)](https://skillicons.dev)
----
-
-#### 🛠 Software
+#### 🦾 Software
 [![My Skills](https://skillicons.dev/icons?i=java,python,cpp,js,react,html,css,kotlin,nodejs,flutter,angular,arduino,bootstrap,cs,dotnet,fortran,idea,jquery,lua,powershell,swift,react,raspberrypi,r,php,nodejs)](https://skillicons.dev)
----
 
-#### 🛠 OS
-[![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 ---
+#### 🧬 Tools & Programs
+[![My Skills](https://skillicons.dev/icons?i=laravel,matlab,postman,androidstudio,docker,kubernetes,figma,vim,git,eclipse,vscode,codepen,electron,firebase,flask,blender,vscode,visualstudio,unreal,unity,atom,regex,md)](https://skillicons.dev)
+
+---
+#### 💽 Adobe
+[![My Skills](https://skillicons.dev/icons?i=ai,au,pr,xd,ae,ps)](https://skillicons.dev)
+
+---
+#### 🗄 Database
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite)](https://skillicons.dev)
+
+---
+#### 🔮 OS
+[![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+
+
   <br/>
   <img src="https://github.com/cosmohacker/github-components/blob/main/git3.png">
   <br/>
