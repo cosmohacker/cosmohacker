@@ -55,6 +55,31 @@
 <a href="https://www.codewars.com/users/cosmohacker"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" /></a>
   <br/>
   <br/>
+ 
+ <p align='center'>
+  
+                               ,----------------,              ,---------,
+                          ,-----------------------,          ,"        ,"|
+                        ,"                      ,"|        ,"        ,"  |
+                       +-----------------------+  |      ,"        ,"    |
+                       |  .-----------------.  |  |     +---------+      |
+                       |  |                 |  |  |     | -==----'|      |
+                       |  |  Made by        |  |  |     |         |      |
+                       |  |  cosmohacker    |  |  |/----|`---=    |      |
+                       |  |  C:\>_          |  |  |   ,/|==== ooo |      ;
+                       |  |                 |  |  |  // |(((( [33]|    ,"
+                       |  `-----------------'  |," .;'| |((((     |  ,"
+                       +-----------------------+  ;;  | |         |,"     -github.com/cosmohacker-
+                          /_)______________(_/  //'   | +---------+
+                     ___________________________/___  `,
+                    /  oooooooooooooooo  .o.  oooo /,   \,"-----------
+                   / ==ooooooooooooooo==.o.  ooo= //   ,`\--{)B     ,"
+                  /_==__==========__==_ooo__ooo=_/'   /___________,"
+                  `-----------------------------
+  
+   ![Visitor Count](https://profile-counter.glitch.me/cosmohacker/count.svg)
+  
+ </p>
   
   ### 🏆 GitHub Profile Trophy:
 ---
