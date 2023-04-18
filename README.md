@@ -37,7 +37,7 @@ int main() {
 
 ---
 #### 🦾 Software
-[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,js,react,html,css,kotlin,nodejs,flutter,angular,arduino,bootstrap,cs,dotnet,fortran,idea,jquery,lua,powershell,swift,react,raspberrypi,r,php,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,js,html,css,kotlin,nodejs,flutter,angular,arduino,bootstrap,cs,dotnet,fortran,idea,jquery,lua,powershell,swift,react,raspberrypi,r,php,nodejs)](https://skillicons.dev)
 
 ---
 #### 🧬 Tools & Programs
