@@ -105,7 +105,7 @@ Need to update, add and fill my Blog Posts, Projects and Artworks which is too h
  
 [First Foreigners Community in Ukraine](https://www.saddcon.com "First Foreigners Community in Ukraine")
 
-[Profesyoneliz](https://www.profesyoenliz.net "Profesyoneliz")
+[Profesyoneliz](https://www.profesyoneliz.net/ "Profesyoneliz")
 
 [aSocial_Fingers](https://www.asocialfingers.com "aSocial_Fingers")
 </details>
