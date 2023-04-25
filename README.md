@@ -90,6 +90,8 @@ Trying to upgrade and add some codes to aSocial_Fingers AI project ALY, currentl
 
 Github Bot with Psychological analysis of humans and human behaviours (This is part of my future Human Behaviour and Software in matrix article which is for my Master Degree)
 
+[Note: Now I'm building part by part for future assembly and easier processing]
+
 Spotify Bot Repo Edit
 
 ### END::Github
