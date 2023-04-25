@@ -113,6 +113,8 @@ Need to update, add and fill my Blog Posts, Projects and Artworks which is too h
 <details>
 <summary>Spare Time</summary>
 Competitive Programming and Solving/Learning New Math Techniques
+ 
+ Creating 2D/3D Animations, Designs and Some Scenes
 </details>
 
 ## END::Currently i'm working on this projects
