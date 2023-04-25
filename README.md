@@ -41,6 +41,85 @@ int main() {
 ```
 
 ---
+
+## BEGIN::Currently i'm working on this projects:
+
+### BEGIN::School
+DBDD Database Design :
+Report (1) for Laboratory-Work-Library
+
+Reports (12) for Laboratory Works for Основи веб-розробки ЛБ Lesson
+
+LABS and Reports for Advanced Python Programming Lesson (%80 Completed)
+
+LABS and Reports for Business Analysis for Startups Lesson (Power BI) (%0 Completed)
+
+LABS and Reports for Інженерія вимог до ПЗ (%0 Completed)
+
+Homeworks for Computer Mathematics and Vocational Language Lessons
+
+### END::School
+
+### BEGIN::Android (Kotlin)
+
+Krasny / Krasny + (premium) application which is help and emergency app for motor drivers. (In Preview) (Open Testing)
+
+[Krasny +](https://play.google.com/store/apps/details?id=com.asocialfingers.krasny_plus "Krasny +")
+
+[Krasny](https://play.google.com/store/apps/details?id=com.asocialfingers.krasny "Krasny")
+
+Thumb Demo for Presentation for investors which is whole new internet technology for every human on planet.
+
+Astrosa Game Project (%30 Completed). (Steam, Google Play Store)
+
+### END::Android (Kotlin)
+
+### BEGIN::Desktop
+
+Astrosa Game Project (%30 Completed). (Steam, Google Play Store)
+
+### END::Desktop
+
+### BEGIN::AI
+
+Trying to upgrade and add some codes to aSocial_Fingers AI project ALY, currently developing (Live Chat)
+
+### END::AI
+
+### BEGIN::Github
+
+Github Bot with Psychological analysis of humans and human behaviours (This is part of my future Human Behaviour and Software in matrix article which is for my Master Degree)
+
+Spotify Bot Repo Edit
+
+### END::Github
+
+### BEGIN::Portfolio Website
+
+Need to update, add and fill my Blog Posts, Projects and Artworks which is too had much detail and this takes too much time so i decided to make it later. My Github Repositories added to my website later
+
+### END::Portfolio Website
+
+### BEGIN::Web Projects
+
+[First Foreigners Community in Ukraine](https://www.saddcon.com "First Foreigners Community in Ukraine")
+
+[Profesyoneliz](https://www.profesyoenliz.net "Profesyoneliz")
+
+[aSocial_Fingers](https://www.asocialfingers.com "aSocial_Fingers")
+
+### END::Web Projects
+
+### BEGIN::Spare Time
+
+Competitive Programming and Solving/Learning New Math Techniques
+
+### END::Spare Time
+
+## END::Currently i'm working on this projects
+
+
+---
 #### 🦾 Software
 [![My Skills](https://skillicons.dev/icons?i=java,python,cpp,js,html,css,kotlin,nodejs,flutter,angular,arduino,bootstrap,cs,dotnet,fortran,idea,jquery,lua,powershell,swift,react,raspberrypi,r,php,nodejs)](https://skillicons.dev)
 
