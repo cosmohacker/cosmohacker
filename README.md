@@ -44,7 +44,8 @@ int main() {
 
 ## BEGIN::Currently i'm working on this projects:
 
-### BEGIN::School
+<details>
+<summary>School</summary>
 DBDD Database Design :
 Report (1) for Laboratory-Work-Library
 
@@ -57,11 +58,10 @@ LABS and Reports for Business Analysis for Startups Lesson (Power BI) (%0 Comple
 LABS and Reports for Інженерія вимог до ПЗ (%0 Completed)
 
 Homeworks for Computer Mathematics and Vocational Language Lessons
+</details>
 
-### END::School
-
-### BEGIN::Android (Kotlin)
-
+<details>
+<summary>Android (Kotlin)</summary>
 Krasny / Krasny + (premium) application which is help and emergency app for motor drivers. (In Preview) (Open Testing)
 
 [Krasny +](https://play.google.com/store/apps/details?id=com.asocialfingers.krasny_plus "Krasny +")
@@ -71,52 +71,45 @@ Krasny / Krasny + (premium) application which is help and emergency app for moto
 Thumb Demo for Presentation for investors which is whole new internet technology for every human on planet.
 
 Astrosa Game Project (%30 Completed). (Steam, Google Play Store)
+</details>
 
-### END::Android (Kotlin)
-
-### BEGIN::Desktop
-
+<details>
+<summary>Desktop</summary>
 Astrosa Game Project (%30 Completed). (Steam, Google Play Store)
+</details>
 
-### END::Desktop
-
-### BEGIN::AI
-
+<details>
+<summary>AI</summary>
 Trying to upgrade and add some codes to aSocial_Fingers AI project ALY, currently developing (Live Chat)
+</details>
 
-### END::AI
-
-### BEGIN::Github
-
+<details>
+<summary>Github</summary>
 Github Bot with Psychological analysis of humans and human behaviours (This is part of my future Human Behaviour and Software in matrix article which is for my Master Degree)
 
 [Note: Now I'm building part by part for future assembly and easier processing]
 
 Spotify Bot Repo Edit
+</details>
 
-### END::Github
-
-### BEGIN::Portfolio Website
-
+<details>
+<summary>Portfolio Website</summary>
 Need to update, add and fill my Blog Posts, Projects and Artworks which is too had much detail and this takes too much time so i decided to make it later. My Github Repositories added to my website later
+</details>
 
-### END::Portfolio Website
-
-### BEGIN::Web Projects
-
+<details>
+<summary>Web Projects</summary>
 [First Foreigners Community in Ukraine](https://www.saddcon.com "First Foreigners Community in Ukraine")
 
 [Profesyoneliz](https://www.profesyoenliz.net "Profesyoneliz")
 
 [aSocial_Fingers](https://www.asocialfingers.com "aSocial_Fingers")
+</details>
 
-### END::Web Projects
-
-### BEGIN::Spare Time
-
+<details>
+<summary>Spare Time</summary>
 Competitive Programming and Solving/Learning New Math Techniques
-
-### END::Spare Time
+</details>
 
 ## END::Currently i'm working on this projects
 
