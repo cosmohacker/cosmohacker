@@ -42,6 +42,9 @@ int main() {
 
 ---
 
+Please don't hesitate to ask me questions from here [Ask Here](https://github.com/cosmohacker/cosmohacker/issues "Ask Here")
+
+
 ## BEGIN::Currently i'm working on this projects:
 
 <details>
