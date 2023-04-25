@@ -94,7 +94,7 @@ Github Bot with Psychological analysis of humans and human behaviours (This is p
 
 Spotify Bot Repo Edit
  
- File/Folder and Readme.md renamer for [coding-problems repository](https://github.com/The-Full-Stack-Code-Meetups/coding-problems "coding-problems repository") only those who clone th repo can run it
+ File/Folder and Readme.md renamer for [coding-problems repository](https://github.com/The-Full-Stack-Code-Meetups/coding-problems "coding-problems repository"). Only those who clone the repo can run it
  
 </details>
 
