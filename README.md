@@ -50,7 +50,7 @@ int main() {
 <details>
 <summary>School</summary>
 DBDD Database Design :
-Report (1) for Laboratory-Work-Library
+Report (1) for Laboratory-Work-Library ✅
 
 Reports (12) for Laboratory Works for Основи веб-розробки ЛБ Lesson
 
