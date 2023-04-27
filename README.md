@@ -65,11 +65,11 @@ Homeworks for Computer Mathematics and Vocational Language Lessons
 
 <details>
 <summary>Android (Kotlin)</summary>
-Krasny / Krasny + (premium) application which is help and emergency app for motor drivers. (In Preview) (Open Testing)
+Krasny / Krasny + (premium) application which is help and emergency app for motor drivers. (In Preview) (Open Testing) ✅
 
-[Krasny +](https://play.google.com/store/apps/details?id=com.asocialfingers.krasny_plus "Krasny +")
+[Krasny +](https://play.google.com/store/apps/details?id=com.asocialfingers.krasny_plus "Krasny +")  ✅
 
-[Krasny](https://play.google.com/store/apps/details?id=com.asocialfingers.krasny "Krasny")
+[Krasny](https://play.google.com/store/apps/details?id=com.asocialfingers.krasny "Krasny")  ✅
 
 Thumb Demo for Presentation for investors which is whole new internet technology for every human on planet.
 
