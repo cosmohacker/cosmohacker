@@ -155,6 +155,7 @@ Competitive Programming and Solving/Learning New Math Techniques
 <a href="https://www.linkedin.com/in/ya%C4%9F%C4%B1zcan-yevgeny-yavuz-813a7a154"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://steamcommunity.com/id/cosmohacker/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/cosmohacker"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://discord.gg/JseN9p6Yjn"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/217cixzitjjw52l67325r3ypir"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/UCJTO_UKw9UDNsjafWBGv08A"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;  
 <a href="https://www.twitch.tv/cosmohacker"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;  
