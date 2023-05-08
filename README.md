@@ -52,9 +52,9 @@ int main() {
 DBDD Database Design :
 Report (1) for Laboratory-Work-Library ✅
 
-Reports (12) for Laboratory Works for Основи веб-розробки ЛБ Lesson
+Reports (12) for Laboratory Works for Основи веб-розробки ЛБ Lesson ✅
 
-LABS and Reports for Advanced Python Programming Lesson (%80 Completed)
+LABS and Reports for Advanced Python Programming Lesson ✅
 
 LABS and Reports for Business Analysis for Startups Lesson (Power BI) (%0 Completed)
 
