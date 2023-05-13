@@ -56,11 +56,11 @@ Reports (12) for Laboratory Works for Основи веб-розробки ЛБ 
 
 LABS and Reports for Advanced Python Programming Lesson ✅
 
-LABS and Reports for Business Analysis for Startups Lesson (Power BI) (%0 Completed)
+LABS and Reports for Business Analysis for Startups Lesson (Power BI) (%60 Completed)
 
-LABS and Reports for Інженерія вимог до ПЗ (%0 Completed)
+LABS and Reports for Інженерія вимог до ПЗ ✅
 
-Homeworks for Computer Mathematics and Vocational Language Lessons
+Homeworks for Computer Mathematics and Vocational Language Lessons ✅
 </details>
 
 <details>
