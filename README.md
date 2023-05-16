@@ -30,10 +30,11 @@
 using namespace std;
 
 int main() {
-   cout << "I have Asperger's Syndrome so I can be rude without realizing it, sorry in advance. I don't have a social life I'm just working" << endl;
+   cout << "I have Asperger's Syndrome so I can be rude without realizing it, sorry in advance." << endl;
    cout << "I can help with any kind of project, it gives me pleasure... You can invite me to your projects." << endl;
    cout << "Since I love software and it is my profession, you can ask anything without hesitation. I respect my profession and therefore I will do my best for you and the software community." << endl;
    cout << "I would do anything for technology, science and art." << endl;
+   cout << "I don't use social media for my sanity." << endl;
    cout << "Feel free to attack/hack my personal website : https://www.yagizcanyevgenyavuz.space and please let me know about vulnerabilities." << endl;
    return 0;
 }
@@ -158,9 +159,7 @@ Competitive Programming and Solving/Learning New Math Techniques
  <a href="https://discord.gg/JseN9p6Yjn"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/217cixzitjjw52l67325r3ypir"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/UCJTO_UKw9UDNsjafWBGv08A"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;  
-<a href="https://www.twitch.tv/cosmohacker"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;  
 <a href="https://t.me/cosmohacker"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/cosmohacker"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;  
 <a href="https://www.hackerrank.com/cosmohacker"><img src="https://img.shields.io/badge/hackerrank-00CC66.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://www.codewars.com/users/cosmohacker"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" /></a>
   <br/>
