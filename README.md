@@ -75,12 +75,12 @@ Krasny / Krasny + (premium) application which is help and emergency app for moto
 
 Thumb Demo for Presentation for investors which is whole new internet technology for every human on planet.
 
-Astrosa Game Project (%30 Completed). (Steam, Google Play Store)
+Astrosa Game Project (%50 Completed). (Steam, Google Play Store)
 </details>
 
 <details>
 <summary>Desktop</summary>
-Astrosa Game Project (%30 Completed). (Steam, Google Play Store)
+Astrosa Game Project (%50 Completed). (Steam, Google Play Store)
 </details>
 
 <details>
@@ -116,6 +116,11 @@ Need to update, add and fill my Blog Posts, Projects and Artworks which is too h
 </details>
 
 <details>
+<summary>Google Chrome Extension</summary>
+Free QR Code Generator ✅
+</details>
+
+<details>
 <summary>Spare Time</summary>
 Competitive Programming and Solving/Learning New Math Techniques
  
@@ -123,7 +128,6 @@ Competitive Programming and Solving/Learning New Math Techniques
 </details>
 
 ## END::Currently i'm working on this projects
-
 
 ---
 #### 🦾 Software
