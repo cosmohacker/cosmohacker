@@ -117,7 +117,8 @@ Need to update, add and fill my Blog Posts, Projects and Artworks which is too h
 
 <details>
 <summary>Google Chrome Extension</summary>
-Free QR Code Generator ✅
+ 
+ [Free QR Code Generator](https://chrome.google.com/webstore/detail/qr-code-generator/idmopdehblodmajcpfopappenmddidoa?hl=en-US "Free QR Code Generator") ✅
 </details>
 
 <details>
