@@ -43,8 +43,33 @@ int main() {
 
 ---
 
-## Please don't hesitate to ask me questions from here [Ask Here](https://github.com/cosmohacker/cosmohacker/issues "Ask Here")
+## Here you can find my Apps and Projects
 
+# Google Play
+
+[Krasny +](https://play.google.com/store/apps/details?id=com.asocialfingers.krasny_plus "Krasny +")
+
+[Krasny](https://play.google.com/store/apps/details?id=com.asocialfingers.krasny "Krasny")
+
+# Steam
+
+[Steam](https://steamcommunity.com/id/aSocial_Fingers/ "Steam")
+
+# Google Extensions
+
+[QR Code Generator](https://chrome.google.com/webstore/detail/qr-code-generator/idmopdehblodmajcpfopappenmddidoa?hl=en-US "QR Code Generator")
+
+# Website
+
+[Profesyoneliz.net](https://www.profesyoneliz.net/ "Profesyoneliz")
+
+[Saddcon.com](https://www.saddcon.com/ "Saddcon")
+
+[aSocial_Fingers](https://www.asocialfingers.com/ "aSocial_Fingers")
+
+[Portfolio](https://yagizcanyevgenyavuz.space "Portfolio")
+
+[ALY AI](https://www.asocialfingers.com/projects/ALY "ALY AI")
 
 ## BEGIN::Currently i'm working on this projects:
 
