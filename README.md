@@ -67,7 +67,7 @@ int main() {
 
 [aSocial_Fingers](https://www.asocialfingers.com/ "aSocial_Fingers")
 
-[Portfolio](https://yagizcanyevgenyavuz.space "Portfolio")
+[Portfolio](https://yagizcanyevgenyavuz.space "Portfolio") (You can find my all projects that i don't mentioned in here)
 
 [ALY AI](https://www.asocialfingers.com/projects/ALY "ALY AI")
 
