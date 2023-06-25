@@ -34,7 +34,6 @@ int main() {
    cout << "I can help with any kind of project, it gives me pleasure... You can invite me to your projects." << endl;
    cout << "Since I love software and it is my profession, you can ask anything without hesitation. I respect my profession and therefore I will do my best for you and the software community." << endl;
    cout << "I would do anything for technology, science and art." << endl;
-   cout << "I don't use social media for my sanity." << endl;
    cout << "Feel free to attack/hack my personal website : https://www.yagizcanyevgenyavuz.space and please let me know about vulnerabilities." << endl;
    return 0;
 }
