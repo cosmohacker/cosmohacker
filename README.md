@@ -104,12 +104,12 @@ Krasny / Krasny + (premium) application which is help and emergency app for moto
 
 Thumb Demo for Presentation for investors which is whole new internet technology for every human on planet.
 
-Astrosa Game Project (%50 Completed). (Steam, Google Play Store)
+Astrosa Game Project (%90 Completed). (Steam, Google Play Store)
 </details>
 
 <details>
 <summary>Desktop</summary>
-Astrosa Game Project (%50 Completed). (Steam, Google Play Store)
+Astrosa Game Project (%90 Completed). (Steam, Google Play Store)
 </details>
 
 <details>
