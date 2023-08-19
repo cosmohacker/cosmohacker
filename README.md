@@ -1,5 +1,17 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=cosmohacker.cosmohacker) [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md) ![https://www.codewars.com/users/cosmohacker/badges/micro](https://www.codewars.com/users/cosmohacker/badges/micro)
 
+<p align='center'>
+<a href="https://discord.gg/4UWM4CZP4E"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/cosmohacker/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://steamcommunity.com/id/cosmohacker/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/cosmohacker"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://open.spotify.com/user/217cixzitjjw52l67325r3ypir"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UCJTO_UKw9UDNsjafWBGv08A"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;  
+<a href="https://t.me/cosmohacker"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.codewars.com/users/cosmohacker"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" /></a>
+  <br/>
+  <br/>
+
  
                                ,----------------,              ,---------,
                           ,-----------------------,          ,"        ,"|
@@ -186,19 +198,7 @@ Competitive Programming and Solving/Learning New Math Techniques
   
   ![Frame 66](https://user-images.githubusercontent.com/25702402/228217616-1c47d6be-f13a-4d76-9b27-fcc17051b2bc.gif)
 
-<p align='center'>
-<a href="mailto:yagizcanyevgenyavuz@asocialfingers.com"><img src="https://img.shields.io/badge/Outlook-0078D4.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/cosmohacker/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://steamcommunity.com/id/cosmohacker/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/cosmohacker"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://discord.gg/4UWM4CZP4E"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://open.spotify.com/user/217cixzitjjw52l67325r3ypir"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCJTO_UKw9UDNsjafWBGv08A"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;  
-<a href="https://t.me/cosmohacker"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/cosmohacker"><img src="https://img.shields.io/badge/hackerrank-00CC66.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; 
-<a href="https://www.codewars.com/users/cosmohacker"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" /></a>
-  <br/>
-  <br/>
+
   
   ### 🏆 GitHub Profile Trophy:
 ---
