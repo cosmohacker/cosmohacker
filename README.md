@@ -1,4 +1,10 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=cosmohacker.cosmohacker) [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md) ![https://www.codewars.com/users/cosmohacker/badges/micro](https://www.codewars.com/users/cosmohacker/badges/micro)
+<p align='center'>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=cosmohacker.cosmohacker" alt="visitors">
+  <a href="https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md">
+    <img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg" alt="StandWithUkraine">
+  </a>
+  <img src="https://www.codewars.com/users/cosmohacker/badges/micro" alt="CodeWars badge">
+</p>
 
 <p align='center'>
 <a href="https://discord.gg/4UWM4CZP4E"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;
