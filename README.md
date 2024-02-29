@@ -77,15 +77,21 @@ int main() {
 
 # Website
 
-[Profesyoneliz.net](https://www.profesyoneliz.net/ "Profesyoneliz")
+[Profesyoneliz](https://www.profesyoneliz.net/ "Profesyoneliz")
 
-[Saddcon.com](https://www.saddcon.com/ "Saddcon")
+[Projedeiz](https://projedeiz.com/ "Projedeyiz")
+
+[Duayen Akademi](https://duayenakademi.com/ "Duayen Akademi")
+
+[Saddcon](https://www.saddcon.com/ "Saddcon")
+
+[Axinomюs](https://axinomyus.com/ "Axinomюs")
 
 [aSocial_Fingers](https://www.asocialfingers.com/ "aSocial_Fingers")
 
 [Portfolio](https://yagizcanyevgenyavuz.space "Portfolio") (You can find my all projects that i don't mentioned in here)
 
-[ALY AI](https://www.asocialfingers.com/projects/ALY "ALY AI")
+[ALY AI](https://www.axinomyus.com/projects/ALY "ALY AI")
 
 # Open Source
 
