@@ -13,7 +13,8 @@
 <a href="https://open.spotify.com/user/217cixzitjjw52l67325r3ypi?si=x7VZRj0wS3yoxJ5ntHqAzQ"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/UCJTO_UKw9UDNsjafWBGv08A"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="https://t.me/cosmohacker"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="https://www.codewars.com/users/cosmohacker"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" /></a>
+<a href="https://www.codewars.com/users/cosmohacker"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" /></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/yagizcan.yevgeny.yavuz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <br/>
   <br/>
 
@@ -100,31 +101,6 @@ int main() {
 
 ## BEGIN::Currently i'm working on this projects:
 
-<details>
-<summary>School</summary>
- 
-DBDD Database Design : Report (1) for Laboratory-Work-Library ✅
- 
-
-Reports (12) for Laboratory Works for Основи веб-розробки ЛБ Lesson ✅
-
-LABS and Reports for Advanced Python Programming Lesson ✅
-
-LABS and Reports for Business Analysis for Startups Lesson (Power BI) ✅
-
-LABS and Reports for Інженерія вимог до ПЗ ✅
-
-Homeworks for Computer Mathematics and Vocational Language Lessons ✅
-</details>
-
-<details>
-<summary>Android (Kotlin)</summary>
-Krasny / Krasny + (premium) application which is help and emergency app for motor drivers.✅
-
-[Krasny +](https://play.google.com/store/apps/details?id=com.asocialfingers.krasny_plus "Krasny +")  ✅
-
-[Krasny](https://play.google.com/store/apps/details?id=com.asocialfingers.krasny "Krasny")  ✅
-
 Thumb Demo for Presentation for investors which is whole new internet technology for every human on planet.
 
 Astrosa Game Project (%90 Completed). (Steam, Google Play Store)
@@ -146,9 +122,7 @@ Github Bot with Psychological analysis of humans and human behaviours (This is p
 
 [Note: Now I'm building part by part for future assembly and easier processing]
 
-Spotify Bot Repo Edit
- 
- File/Folder and Readme.md renamer for [coding-problems repository](https://github.com/The-Full-Stack-Code-Meetups/coding-problems "coding-problems repository"). Only those who clone the repo can run it
+File/Folder and Readme.md renamer for [coding-problems repository](https://github.com/The-Full-Stack-Code-Meetups/coding-problems "coding-problems repository"). Only those who clone the repo can run it
  
 </details>
 
@@ -158,26 +132,10 @@ Need to update, add and fill my Blog Posts, Projects and Artworks which is too h
 </details>
 
 <details>
-<summary>Web Projects</summary>
- 
-[First Foreigners Community in Ukraine](https://www.saddcon.com "First Foreigners Community in Ukraine")
-
-[Profesyoneliz](https://www.profesyoneliz.net/ "Profesyoneliz")
-
-[aSocial_Fingers](https://www.asocialfingers.com "aSocial_Fingers")
-</details>
-
-<details>
-<summary>Google Chrome Extension</summary>
- 
- [Free QR Code Generator](https://chrome.google.com/webstore/detail/qr-code-generator/idmopdehblodmajcpfopappenmddidoa?hl=en-US "Free QR Code Generator") ✅
-</details>
-
-<details>
 <summary>Spare Time</summary>
 Competitive Programming and Solving/Learning New Math Techniques
  
- Creating 2D/3D Animations, Designs and Some Scenes
+Creating 2D/3D Animations, Designs and Some Scenes
 </details>
 
 ## END::Currently i'm working on this projects
