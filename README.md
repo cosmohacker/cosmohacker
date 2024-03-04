@@ -101,9 +101,18 @@ int main() {
 
 ## BEGIN::Currently i'm working on this projects:
 
+<details>
+<summary>Patent</summary>
 Thumb Demo for Presentation for investors which is whole new internet technology for every human on planet.
+</details>
 
+<details>
+<summary>Astrosa</summary>
 Astrosa Game Project (%90 Completed). (Steam, Google Play Store)
+
+First Product from Astrosa Game (unfortunately the game is not up to date in google play keep in touch)
+![Astrosa Screenshot 040704032024](https://github.com/cosmohacker/cosmohacker/assets/25702402/f8313929-0352-4569-af81-eed090def630)
+  
 </details>
 
 <details>
