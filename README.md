@@ -14,7 +14,6 @@
 <a href="https://www.youtube.com/channel/UCJTO_UKw9UDNsjafWBGv08A"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="https://t.me/cosmohacker"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="https://www.codewars.com/users/cosmohacker"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" /></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/yagizcan.yevgeny.yavuz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <br/>
   <br/>
 
@@ -97,57 +96,6 @@ int main() {
 # Open Source
 
 [Open Source](https://github.com/cosmohacker?tab=repositories "Open Source")
-
-
-## BEGIN::Currently i'm working on this projects:
-
-<details>
-<summary>Patent</summary>
-Thumb Demo for Presentation for investors which is whole new internet technology for every human on planet.
-</details>
-
-<details>
-<summary>Astrosa</summary>
-Astrosa Game Project (%90 Completed). (Steam, Google Play Store)
-
-First Product from Astrosa Game (unfortunately the game is not up to date in google play keep in touch)
-![Astrosa Screenshot 040704032024](https://github.com/cosmohacker/cosmohacker/assets/25702402/f8313929-0352-4569-af81-eed090def630)
-  
-</details>
-
-<details>
-<summary>Desktop</summary>
-Astrosa Game Project (%90 Completed). (Steam, Google Play Store)
-</details>
-
-<details>
-<summary>AI</summary>
-Trying to upgrade and add some codes to aSocial_Fingers AI project ALY, currently developing (Live Chat)
-</details>
-
-<details>
-<summary>Github</summary>
-Github Bot with Psychological analysis of humans and human behaviours (This is part of my future Human Behaviour and Software in matrix article which is for my Master Degree)
-
-[Note: Now I'm building part by part for future assembly and easier processing]
-
-File/Folder and Readme.md renamer for [coding-problems repository](https://github.com/The-Full-Stack-Code-Meetups/coding-problems "coding-problems repository"). Only those who clone the repo can run it
- 
-</details>
-
-<details>
-<summary>Portfolio Website</summary>
-Need to update, add and fill my Blog Posts, Projects and Artworks which is too had much detail and this takes too much time so i decided to make it later. My Github Repositories added to my website later
-</details>
-
-<details>
-<summary>Spare Time</summary>
-Competitive Programming and Solving/Learning New Math Techniques
- 
-Creating 2D/3D Animations, Designs and Some Scenes
-</details>
-
-## END::Currently i'm working on this projects
 
 ---
 #### 🦾 Software
