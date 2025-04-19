@@ -42,6 +42,15 @@
     "IT'S ALL CODE. IF YOU LISTEN CLOSELY, YOU CAN HEAR THE NUMBERS."
        «ЦЕ ВСЕ КОД. ЯКЩО УВАЖНО ПРИСЛУХАТИСЯ, МОЖНА ПОЧУТИ ЦИФРИ».  
 
+---
+
+📣 **Featured Recognition**
+
+> 🏅 Recently listed among the **Top 5 Most Popular Programmers from Ukraine on GitHub** by [ITLEO](https://itleo.com.ua/2025/04/08/5-most-popular-programmers-from-ukraine-on-github/)  
+> _“Yevhen Yavuz Yagitsan is a well-known programmer and scientist who actively works on open source software projects on GitHub... He continues to promote the development of open source technologies and software in Ukraine.”_
+
+---
+
 ```cpp
 #include <iostream>
 using namespace std;
