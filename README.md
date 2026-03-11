@@ -125,11 +125,10 @@ int main() {
   ![Frame 66](https://user-images.githubusercontent.com/25702402/228217616-1c47d6be-f13a-4d76-9b27-fcc17051b2bc.gif)
 
 
-  
-  ### 🏆 GitHub Profile Trophy:
+### 🏆 GitHub Profile Trophy:
 ---
- <div>
-  <img width=810 src="https://github-profile-trophy.vercel.app/?username=cosmohacker&theme=matrix&no-frame=true&no-bg=true&column=-1"/>
+<div>
+  <img width=810 src="https://trophy.ryglcloud.net/?username=cosmohacker&theme=matrix&no-frame=true&no-bg=true&column=-1"/>
 </div>
 
 https://user-images.githubusercontent.com/25702402/232766282-abdcb70b-bdfa-4a65-becb-f2239050ea25.mp4
