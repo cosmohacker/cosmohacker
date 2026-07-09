@@ -35,20 +35,23 @@
 
 ---
 
-## 📲 Download My Latest App: Aqira
+# 📲 Download My Latest App: Aqira
 
-Experience **Aqira**, my latest social mobile application, now available on Google Play.
+**Aqira** is a next-generation social and matchmaking platform that combines AI, live streaming, voice chat, video calls, games, and real-time messaging into a single experience. :contentReference[oaicite:0]{index=0}
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.axinomyus.aqira">
-    <img src="https://img.shields.io/badge/Download%20on-Google%20Play-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" alt="Download Aqira on Google Play">
+    <img src="https://img.shields.io/badge/Download%20on-Google%20Play-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" alt="Download Aqira">
+  </a>
+  &nbsp;
+  <a href="https://aqira.app">
+    <img src="https://img.shields.io/badge/Visit-Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Aqira Website">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.axinomyus.aqira">
-    📥 Download Aqira on Google Play
-  </a>
+  🌐 <a href="https://aqira.app">aqira.app</a> •
+  📱 <a href="https://play.google.com/store/apps/details?id=com.axinomyus.aqira">Google Play</a>
 </p>
 
 ---
