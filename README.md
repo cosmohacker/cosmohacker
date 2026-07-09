@@ -35,6 +35,24 @@
 
 ---
 
+## 📲 Download My Latest App: Aqira
+
+Experience **Aqira**, my latest social mobile application, now available on Google Play.
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.axinomyus.aqira">
+    <img src="https://img.shields.io/badge/Download%20on-Google%20Play-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" alt="Download Aqira on Google Play">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.axinomyus.aqira">
+    📥 Download Aqira on Google Play
+  </a>
+</p>
+
+---
+
 📣 **Featured Recognition**
 
 > 🏅 Recently listed among the **Top 5 Most Popular Programmers from Ukraine on GitHub** by [ITLEO](https://itleo.com.ua/2025/04/08/5-most-popular-programmers-from-ukraine-on-github/)  
