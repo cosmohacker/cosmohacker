@@ -37,7 +37,7 @@
 
 # 📲 Download My Latest App: Aqira
 
-**Aqira** is a next-generation social and matchmaking platform that combines AI, live streaming, voice chat, video calls, games, and real-time messaging into a single experience. :contentReference[oaicite:0]{index=0}
+**Aqira** is a next-generation social and matchmaking platform that combines AI, live streaming, voice chat, video calls, games, and real-time messaging into a single experience.
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.axinomyus.aqira">
